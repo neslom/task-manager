@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(10,40,51);
+}
+
+#header {
+  font-family: Helvetica;
+  text-align: center;
+  position: relative;
+  color: rgb(202, 75, 53);
+}
+
+h1 {
+  font-family: Helvetica;
+  color: rgb(202, 75, 53);
+}
+
+h3 {
+  color: rgb(66, 156, 151);
+}
+
+#tasks {
+  margin: 0 auto;
+  position: absolute;
+}
+
+#enter_new {
+  color: rgb(202, 75, 53);
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  padding: 6px;
+}
+
+a:hover {
+  font-weight: bold;
+  color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+li {
+    float: left;
+    color: rgb(108,111,199);
+  }
